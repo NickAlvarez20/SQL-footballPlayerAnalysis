@@ -1,2 +1,2 @@
-# FootballDataMining
-Using a large data set, create SQL quiries to provide useful insite
+# Khan Academy-FootballDataAnalysis Project
+Perform analysis using SQL on a Football Player Dataset
